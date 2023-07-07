@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Trpg Ari
+email: duckduck0230@gmail.com
 url: https://arrrii.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Ari's space"
+keywords: "trpg, queer"
+skills: "COC/인세인/편도용사/아리안로드/아론의 사제/은스나/둘수사/적흑/겁스/블러드패스/디앤디/아곤/마기로기/언성듀엣/던전월드/스토샤"
+meta_author: Ari
 
 # Google webmaster tools
 google_verify:
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: ffc09d #80B3FF
+  primary-rgb: "255,244,180" #"128,179,255"
+  secondary: e7987a #FD6E8A
+  secondary-dark: 98758b #A2122F
 
 # Footer settings
 footer:
@@ -40,20 +40,12 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://twitter.com/ari
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 은하계
+  - line: 대한민국
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
